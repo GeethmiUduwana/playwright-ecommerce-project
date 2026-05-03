@@ -42,4 +42,4 @@ This project demonstrates practical QA automation skills including UI testing, f
 
 ---
 
-💡 Developed as part of QA learning for internship preparation.
+

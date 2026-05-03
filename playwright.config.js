@@ -8,13 +8,13 @@ module.exports = {
       slowMo: 800,
     },
 
-    // ✅ ALWAYS screenshot
+    // ALWAYS screenshot
     screenshot: 'on',
 
-    // ✅ ALWAYS video
+    // ALWAYS video
     video: 'on',
 
-    // ✅ ALWAYS trace
+    // ALWAYS trace
     trace: 'on',
   },
 
